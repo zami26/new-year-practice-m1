@@ -1,0 +1,27 @@
+body{
+    font-family: "Work Sans", sans-serif;
+}
+.header{
+    background-image: url("../images/banner/banner2.png");
+     height: 810px; 
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+header h1{
+    margin: 0px;
+    font-size: 40px;
+    padding-top: 10%;
+}
+.banner{
+    text-align: right;
+    margin-right: 200px;
+}
+.content-btn{
+    padding: 17px 25px;
+    background-color: rgb(247, 101, 49);
+    color: white;
+    border: 0px;
+    border-radius: 2px;
+    font-weight: 700;
+
+}
